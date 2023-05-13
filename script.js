@@ -8,6 +8,7 @@ let arr = [
 
 function PrintStudentswithMap() {
   //Write your code here , just console.log
+  ,jbjlg kubfo;aw ih
 }
 
 function PrintStudentsbyForEach() {
